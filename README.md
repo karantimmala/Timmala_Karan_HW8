@@ -6,6 +6,9 @@ The notebook covers supervised, semi-supervised, and unsupervised learning on th
 
 # Project Structure
 notebook/Timmala_Karan_HW8.ipynb
+
 data/ (datasets are downloaded automatically)
+
 requirements.txt
+
 Running the Notebook
